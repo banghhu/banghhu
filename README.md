@@ -1,6 +1,8 @@
-<h1 align="center">你好，我是 banghhu 👋</h1>
+<p align="center">
+  <img src="assets/banner.svg" alt="惊若游龙 · banghhu">
+</p>
 
-<h3 align="center">「惊若游龙」</h3>
+<h1 align="center">你好，我是 banghhu 👋</h1>
 
 <p align="center">
   以学为乐，一直在路上。
